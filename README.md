@@ -1,5 +1,7 @@
 # Beauty Salon Website Template
 
+**Live demo:** https://salon-ebon-six.vercel.app
+
 A ready-to-sell website for beauty parlours and salons. Everything about the salon is set in **one file**, `salon.json`. Change that file, push to GitHub, and Vercel, Netlify or Cloudflare Pages builds the site. There is no admin panel, database or server.
 
 - Bookings and bridal enquiries go to the salon's **WhatsApp** as a pre-filled message.
